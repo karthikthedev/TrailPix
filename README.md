@@ -5,7 +5,6 @@
 
 **TrailPix** is a sleek and minimal Android wallpaper app designed to bring stunning, high-resolution images to your device. All wallpapers are clicked and edited personally by [Karthik Suresh](https://github.com/karthikthedev).
 
-
 ---
 
 ## 🌟 Features
@@ -17,6 +16,9 @@
 - 🚀 Fast image loading with caching
 
 ---
+
+
+# Beta Testing Registration ➡[Link](https://forms.gle/c5ucTD7t7F4K9cyW9)⬅
 
 ## 📸 Screenshots
 ![Screenshot_20250619_125836](https://github.com/user-attachments/assets/74b843f3-ef82-4c04-a6a8-ae1c27dd563f)
