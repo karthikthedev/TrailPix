@@ -36,9 +36,3 @@
 - Android Studio Arctic Fox or later
 - Minimum SDK: 21 (Android 5.0)
 - Firebase project setup (for image storage)
-
-### How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/karthikthedev/TrailPix.git
