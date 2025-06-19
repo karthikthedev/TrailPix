@@ -1,0 +1,6 @@
+com.karthiksuresh.trailpix.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\karth\.gradle\caches\8.9\transforms\469bc5f457c57e9439bda166a7cac46b\transformed\jetified-annotation-experimental-1.3.0\res
+com.karthiksuresh.trailpix.test.app-jetified-core-1.5.0-1 C:\Users\karth\.gradle\caches\8.9\transforms\a2ae90119a1494456d02ff4fb5e931a5\transformed\jetified-core-1.5.0\res
+com.karthiksuresh.trailpix.test.app-androidTest-2 C:\pa\WallpaperApp-master\app\build\generated\res\resValues\androidTest\debug
+com.karthiksuresh.trailpix.test.app-mergeDebugAndroidTestResources-3 C:\pa\WallpaperApp-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.karthiksuresh.trailpix.test.app-mergeDebugAndroidTestResources-4 C:\pa\WallpaperApp-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.karthiksuresh.trailpix.test.app-debugAndroidTest-5 C:\pa\WallpaperApp-master\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

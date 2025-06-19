@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_image_grid_item_fav.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/image_grid_item_fav.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/xml_file_paths.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_image_background.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/image_background.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_share_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_share_24.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_shimmer_animation.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/shimmer_animation.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_fragment_download.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/fragment_download.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/color_color_navbar_overlay_dark.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/color/color_navbar_overlay_dark.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_fragment_fav.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/fragment_fav.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_fragment_category_each_image.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/fragment_category_each_image.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_dialog_background.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/dialog_background.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_fragment_settings.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_local_fire_department_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_local_fire_department_24.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_category_grid_item.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/category_grid_item.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_activity_about.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/font_regular.otf.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/font/regular.otf"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable-v24_ic_menu.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable-v24/ic_menu.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_activity_image_view.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/activity_image_view.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_shimmer_layout.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/shimmer_layout.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/color_color_navbar_overlay_light.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/color/color_navbar_overlay_light.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_radio_sb_button_bg.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/radio_sb_button_bg.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_unfavourite.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/unfavourite.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_container.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/container.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_image_grid_item.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/image_grid_item.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/anim_fragment_fade_out.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/anim/fragment_fade_out.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_activity_image_view_fav.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/activity_image_view_fav.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/color_color_navbar_selected_bg_dark.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/color/color_navbar_selected_bg_dark.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_category_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_category_24.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_fragment_home.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_divider_accent.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/divider_accent.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_seek_progress.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/seek_progress.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/menu_navigation_rail_menu.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/menu/navigation_rail_menu.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/anim_waterdrop_anim.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/anim/waterdrop_anim.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_favorite_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_favorite_24.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_bottom_navbar_bg.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/bottom_navbar_bg.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_rotate_right_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_rotate_right_24.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_fragment_categories.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/fragment_categories.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/font_bold.otf.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/font/bold.otf"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/color_color_navbar_selected_bg_light.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/color/color_navbar_selected_bg_light.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_ic_app_logo.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/ic_app_logo.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_bookmark_remove_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_bookmark_remove_24.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_radio_sb_text_color.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/radio_sb_text_color.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/font_normal.ttf.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/font/normal.ttf"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_scrollbar.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/scrollbar.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable-v24_button.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable-v24/button.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_ic_launcher_monochrome.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/color_color_container_overlay_dark.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/color/color_container_overlay_dark.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/anim_fragment_fade_in.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/anim/fragment_fade_in.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/font_header.ttf.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/font/header.ttf"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/color_color_radio_button_circle.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/color/color_radio_button_circle.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/anim_side_in_left.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/anim/side_in_left.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/layout_dialog_set_as_wallpaper.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/layout/dialog_set_as_wallpaper.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_format_list_bulleted_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/anim_slide_out_right.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_ic_app_icon.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/ic_app_icon.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_download_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_download_24.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_seek_background.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/seek_background.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/xml_backup_rules.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/anim_slide_up.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_code_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_code_24.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_file_download_off_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_file_download_off_24.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/color_color_container_overlay_light.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/color/color_container_overlay_light.xml"
+    },
+    {
+        "merged": "com.karthiksuresh.trailpix.app-debug-37:/drawable_baseline_data_object_24.xml.flat",
+        "source": "com.karthiksuresh.trailpix.app-main-39:/drawable/baseline_data_object_24.xml"
+    }
+]

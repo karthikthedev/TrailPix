@@ -1,0 +1,139 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_constraintCircleRadius="@dimen/_16sdp"
+    tools:context=".ImageViewActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:adjustViewBounds="true"
+        android:focusable="true"
+        android:scaleType="fitCenter" />
+    <TextView
+        android:id="@+id/progressText"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/_18sdp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_marginTop="@dimen/_10sdp"
+        />
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:indeterminate="false"
+        style="?android:attr/progressBarStyleHorizontal"
+
+        android:max="100"
+        android:progress="0"
+        android:progressTint="#E97800"
+        android:progressBackgroundTint="@color/white"
+
+        android:visibility="gone"
+        />
+
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:background="@color/transparent"
+        android:orientation="vertical">
+
+        <!--        <ImageButton-->
+        <!--            android:id="@+id/rotateBtn"-->
+        <!--            android:layout_width="50dp"-->
+        <!--            android:layout_height="50dp"-->
+        <!--            android:layout_gravity="bottom|right"-->
+        <!--            android:layout_margin="@dimen/_6sdp"-->
+        <!--            android:adjustViewBounds="true"-->
+        <!--            android:background="@null"-->
+        <!--            android:contextClickable="true"-->
+        <!--            android:src="@drawable/baseline_rotate_right_24"-->
+        <!--            android:tooltipText="Add To Fav" android:contentDescription="Enter How Much Cookies You Want"-->
+        <!--            android:hint="e.g 8" />-->
+
+        <ImageButton
+            android:id="@+id/favBtn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="@dimen/_6sdp"
+            android:adjustViewBounds="true"
+            android:background="@null"
+            android:contentDescription="Download"
+            android:src="@drawable/baseline_favorite_24"
+            android:tooltipText="Add To Fav" />
+
+        <ImageButton
+            android:id="@+id/download"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="@dimen/_6sdp"
+            android:adjustViewBounds="true"
+            android:background="@null"
+            android:contentDescription="Download"
+            android:src="@drawable/baseline_download_24"
+            android:tooltipText="Download" />
+
+        <ImageButton
+            android:id="@+id/shareBtn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="@dimen/_6sdp"
+            android:adjustViewBounds="true"
+            android:background="@null"
+            android:contentDescription="share"
+            android:src="@drawable/baseline_share_24"
+            android:tooltipText="share" />
+    </LinearLayout>
+
+
+    <!--    <TextView-->
+    <!--        android:id="@+id/imageNameTextView"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_alignParentTop="true"-->
+    <!--        android:layout_gravity="top|center"-->
+    <!--        android:background="#80000000"-->
+    <!--        android:padding="6dp"-->
+    <!--        android:textColor="#FFFFFF"-->
+    <!--        android:textSize="18sp"-->
+    <!--        tools:text="Image Name" />-->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:orientation="vertical">
+
+        <!--        <Button-->
+        <!--            android:id="@+id/download"-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_gravity="bottom|center_horizontal"-->
+        <!--            android:layout_marginBottom="@dimen/_6sdp"-->
+        <!--            android:text="Download Image" />-->
+
+        <Button
+            android:id="@+id/wallpaper"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/download"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:gravity="center"
+            android:text="Set as Wallpaper" />
+    </LinearLayout>
+
+
+</FrameLayout>
+

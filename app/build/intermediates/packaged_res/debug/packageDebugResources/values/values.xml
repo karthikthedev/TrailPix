@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="activeIndicator">#FF66A5AD</color>
+    <color name="black">#FF021C1E</color>
+    <color name="colorAccent" ns1:targetApi="s">#E97800</color>
+    <color name="colorAccentVariant" ns1:targetApi="s">@android:color/system_accent3_600</color>
+    <color name="colorAccent_legacy">#E97800</color>
+    <color name="colorBackground" ns1:targetApi="s">@android:color/system_neutral2_50</color>
+    <color name="colorBackground2">#14000000</color>
+    <color name="colorContainer" ns1:targetApi="s">@android:color/system_neutral2_50</color>
+    <color name="colorContainerOverlay">@color/color_container_overlay_light</color>
+    <color name="colorErrorContainerDark">#FF8C1D18</color>
+    <color name="colorErrorContainerLight">#FFF9DEDC</color>
+    <color name="colorNavbarOverlay">@color/color_navbar_overlay_light</color>
+    <color name="colorOnErrorContainerDark">#FFF9DEDC</color>
+    <color name="colorOnErrorContainerLight">#FF410E0B</color>
+    <color name="colorOnPrimaryContainerDark">@color/material_dynamic_primary90</color>
+    <color name="colorOnPrimaryContainerLight">@color/material_dynamic_primary10</color>
+    <color name="colorOnSecondaryContainerDark">@color/material_dynamic_secondary10</color>
+    <color name="colorOnSecondaryContainerLight">@color/material_dynamic_secondary10</color>
+    <color name="colorOnSurfaceDark">@color/material_dynamic_neutral90</color>
+    <color name="colorOnSurfaceLight">@color/material_dynamic_neutral10</color>
+    <color name="colorOnSurfaceVariantDark">@color/material_dynamic_neutral_variant80</color>
+    <color name="colorOnSurfaceVariantLight">@color/material_dynamic_neutral_variant30</color>
+    <color name="colorOnTertiaryContainerDark">@color/material_dynamic_tertiary90</color>
+    <color name="colorOnTertiaryContainerLight">@color/material_dynamic_tertiary10</color>
+    <color name="colorOnTertiaryDark">@color/material_dynamic_tertiary20</color>
+    <color name="colorOnTertiaryLight">@color/material_dynamic_primary100</color>
+    <color name="colorOutlineDark">@color/material_dynamic_neutral_variant60</color>
+    <color name="colorOutlineLight">@color/material_dynamic_neutral_variant50</color>
+    <color name="colorPrimaryContainerDark">@color/material_dynamic_primary30</color>
+    <color name="colorPrimaryContainerLight">@color/material_dynamic_primary90</color>
+    <color name="colorPrimaryDark">@color/material_dynamic_primary80</color>
+    <color name="colorPrimaryLight">@color/material_dynamic_primary40</color>
+    <color name="colorSecondaryContainerDark">@color/material_dynamic_secondary90</color>
+    <color name="colorSecondaryContainerLight">@color/material_dynamic_secondary90</color>
+    <color name="colorSuccess" ns1:targetApi="s">@android:color/system_accent1_400</color>
+    <color name="colorSurfaceDark">@color/material_dynamic_neutral10</color>
+    <color name="colorSurfaceLight">@color/material_dynamic_neutral99</color>
+    <color name="colorSurfaceVariantDark">@color/material_dynamic_neutral_variant30</color>
+    <color name="colorSurfaceVariantLight">@color/material_dynamic_neutral_variant90</color>
+    <color name="colorTertiaryContainerDark">@color/material_dynamic_tertiary30</color>
+    <color name="colorTertiaryContainerLight">@color/material_dynamic_tertiary90</color>
+    <color name="colorTertiaryDark">@color/material_dynamic_tertiary80</color>
+    <color name="colorTertiaryLight">@color/material_dynamic_tertiary40</color>
+    <color name="holo_blue_light" ns1:targetApi="s">@android:color/system_accent1_600</color>
+    <color name="holo_green_light" ns1:targetApi="s">@android:color/system_accent3_600</color>
+    <color name="landing_page_one_background">#FFFFF0F3</color>
+    <color name="landing_page_three_background">#FFEEF4FE</color>
+    <color name="landing_page_two_background">#FFEFF7FA</color>
+    <color name="navbarSelectedBackground">@color/color_navbar_selected_bg_light</color>
+    <color name="neumorph_outline_end">#FFF0F0F0</color>
+    <color name="neumorph_outline_start">#FFBDBDBD</color>
+    <color name="offStateColor" ns1:targetApi="s">@android:color/system_neutral2_10</color>
+    <color name="offStateColor2">#1A000000</color>
+    <color name="offStateColor3">#40000000</color>
+    <color name="offStateColor4">#66FFFFFF</color>
+    <color name="offwhite">#BFFFFFFF</color>
+    <color name="pink">#FFEE5166</color>
+    <color name="pixel_black_bg" ns1:targetApi="s">@android:color/system_neutral2_900</color>
+    <color name="red">#FFFF6565</color>
+    <color name="rippleAccent">@color/color_container_overlay_light</color>
+    <color name="rippleDark">#1A000000</color>
+    <color name="rippleDarker">#33000000</color>
+    <color name="shadow">#14000000</color>
+    <color name="shimmer">#BFBDBD</color>
+    <color name="splash_logo">@color/colorAccent</color>
+    <color name="switch_thumb_inactive" ns1:targetApi="s">@android:color/system_neutral2_600
+    </color>
+    <color name="switch_track_inactive" ns1:targetApi="s">@android:color/system_neutral2_100
+    </color>
+    <color name="textColorPrimary">@color/black</color>
+    <color name="textColorPrimaryInverse">#FFFFFFFF</color>
+    <color name="textColorSecondary">#CC000000</color>
+    <color name="textColorSecondaryInverse">#CCFFFFFF</color>
+    <color name="textColorSecondaryLight" ns1:targetApi="s">@android:color/system_neutral1_800
+    </color>
+    <color name="transparent" ns1:targetApi="s">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="_10sdp">10sp</dimen>
+    <dimen name="_11sdp">11sp</dimen>
+    <dimen name="_120sdp">120sp</dimen>
+    <dimen name="_12sdp">12sp</dimen>
+    <dimen name="_14sdp">14sp</dimen>
+    <dimen name="_15sdp">15sp</dimen>
+    <dimen name="_16sdp">16sp</dimen>
+    <dimen name="_17sdp">17sp</dimen>
+    <dimen name="_18sdp">18sp</dimen>
+    <dimen name="_1sdp">1sp</dimen>
+    <dimen name="_22sdp">22sp</dimen>
+    <dimen name="_24sdp">24sp</dimen>
+    <dimen name="_26sdp">26sp</dimen>
+    <dimen name="_28sdp">28sp</dimen>
+    <dimen name="_2sdp">2sp</dimen>
+    <dimen name="_34sdp">34sp</dimen>
+    <dimen name="_3sdp">3sp</dimen>
+    <dimen name="_40sdp">40sp</dimen>
+    <dimen name="_4sdp">4sp</dimen>
+    <dimen name="_52sdp">52sp</dimen>
+    <dimen name="_5sdp">5sp</dimen>
+    <dimen name="_60sdp">60sp</dimen>
+    <dimen name="_6sdp">6sp</dimen>
+    <dimen name="_8sdp">8sp</dimen>
+    <dimen name="_9sdp">9sp</dimen>
+    <dimen name="_minus2sdp">-2sp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="cont_corner_radius">24dp</dimen>
+    <dimen name="cont_corner_radius2">23dp</dimen>
+    <dimen name="cont_desc_size">@dimen/_12sdp</dimen>
+    <dimen name="cont_title_size">@dimen/_12sdp</dimen>
+    <dimen name="container_margin">@dimen/_10sdp</dimen>
+    <dimen name="container_marginSide">@dimen/_12sdp</dimen>
+    <dimen name="container_marginTopBottom">@dimen/_16sdp</dimen>
+    <dimen name="container_padding">@dimen/_16sdp</dimen>
+    <dimen name="container_paddingSide">@dimen/_18sdp</dimen>
+    <dimen name="design_bottom_navigation_icon_size" ns1:override="true">24sp</dimen>
+    <dimen name="header_title_size">@dimen/_14sdp</dimen>
+    <dimen name="preview_icon_size">@dimen/_14sdp</dimen>
+    <dimen name="preview_margin">@dimen/_2sdp</dimen>
+    <dimen name="reset_button_size">@dimen/_14sdp</dimen>
+    <string name="app_name">TrailPix</string>
+    <string name="gcm_defaultSenderId" translatable="false">299374973864</string>
+    <string name="google_api_key" translatable="false">AIzaSyBpQJvkF0CXSImooW2GrWmzxzQJxxn9Ld8</string>
+    <string name="google_app_id" translatable="false">1:299374973864:android:f9cba258986aa22216839d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBpQJvkF0CXSImooW2GrWmzxzQJxxn9Ld8</string>
+    <string name="google_storage_bucket" translatable="false">myapplication-2ceb4.firebasestorage.app</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">myapplication-2ceb4</string>
+    <style name="BottomNavigation.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/colorAccent</item>
+        <item name="itemIconTint">@color/colorAccent</item>
+        <item name="itemTextColor">@color/black</item>
+        <item name="marginHorizontal">@dimen/_4sdp</item>
+        <item name="android:padding">@dimen/_2sdp</item>
+        <item name="android:width">@dimen/_60sdp</item>
+        <item name="android:height">@dimen/_34sdp</item>
+    </style>
+    <style name="BottomNavigationView" parent="Widget.Material3.BottomNavigationView">
+        <item name="android:theme">@style/Theme.Iconify</item>
+        <item name="android:background">@drawable/bottom_navbar_bg</item>
+        <item name="itemRippleColor">@color/black</item>
+        <item name="itemIconTint">@color/colorAccent</item>
+        <item name="itemActiveIndicatorStyle">
+            @style/BottomNavigation.ActiveIndicator
+        </item>
+        <item name="android:height">@dimen/_60sdp</item>
+        <item name="android:minHeight">@dimen/_60sdp</item>
+        <item name="itemTextColor">@color/colorContainer</item>
+        <item name="itemIconSize">@dimen/_22sdp</item>
+        <item name="android:textSize">@dimen/cont_desc_size</item>
+        <item name="itemPaddingTop">@dimen/_8sdp</item>
+        <item name="itemTextAppearanceInactive">@style/TextAppearanceLabelMedium</item>
+        <item name="itemTextAppearanceActive">@style/TextAppearanceLabelMedium</item>
+    </style>
+    <style name="ColorPicker" parent="Theme.Material3.Light.Dialog">
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:windowTitleStyle">@style/LightPickerDialogTitleStyle</item>
+        <item name="android:background">@drawable/container</item>
+        <item name="android:textColor">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:fontFamily">@font/normal</item>
+        <item name="android:tint">@color/colorAccent</item>
+        <item name="android:radius">@dimen/cont_corner_radius</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorTertiary">@color/colorAccent</item>
+    </style>
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        
+        <item name="android:textColorAlertDialogListItem">@color/white</item>
+        <item name="android:background">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:buttonTint">@color/white</item>
+    </style>
+    <style name="LightPickerDialogTitleStyle">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textAppearance">
+            @android:style/TextAppearance.Material.DialogWindowTitle
+        </item>
+        <item name="android:textColor">@color/textColorPrimary</item>
+    </style>
+    <style name="MenuLightTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:background">@color/colorContainer</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="SeekBar.Iconify" parent="Widget.Material3.Slider">
+        
+        
+        
+    </style>
+    <style name="TextAppearanceLabelMedium" parent="@style/TextAppearance.Material3.LabelMedium">
+        <item name="android:fontFamily">@font/normal</item>
+        <item name="android:textSize">@dimen/cont_desc_size</item>
+        <item name="android:lineHeight" ns1:targetApi="p">@dimen/_14sdp</item>
+    </style>
+    <style name="Theme.Iconify" parent="Theme.Material3.Light.NoActionBar">
+        
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:colorBackground">@color/black</item>
+        
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/colorAccent</item>
+        <item name="colorPrimaryVariant">@color/colorAccent</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorSecondaryVariant">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        
+        <item name="android:statusBarColor">@color/rippleAccent</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+
+        
+        <item name="android:navigationBarColor">@color/rippleAccent</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="o_mr1">false</item>
+
+        
+        <item name="fontFamily">@font/normal</item>
+        <item name="android:fontFamily">@font/normal</item>
+        <item name="android:lineSpacingMultiplier">1.5</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:colorControlNormal">@color/textColorPrimary</item>
+        <item name="android:colorControlActivated">@color/textColorPrimary</item>
+        <item name="android:colorControlHighlight">@color/colorAccent</item>
+        <item name="selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="selectableItemBackgroundBorderless">?android:selectableItemBackground</item>
+        <item name="colorBackgroundFloating">@color/colorContainer</item>
+        <item name="colorSurface">@color/colorContainer</item>
+        <item name="colorPrimarySurface">@color/colorContainer</item>
+        <item name="colorError">@color/red</item>
+
+        
+        <item name="colorPrimaryInverse">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryContainer">@color/colorPrimaryContainerLight</item>
+        <item name="colorOnPrimaryContainer">@color/colorOnPrimaryContainerLight</item>
+        <item name="colorSecondaryContainer">@color/colorSecondaryContainerLight</item>
+        <item name="colorOnSecondaryContainer">@color/colorOnSecondaryContainerLight</item>
+        <item name="colorTertiary">@color/colorTertiaryLight</item>
+        <item name="colorOnTertiary">@color/colorOnTertiaryLight</item>
+        <item name="colorTertiaryContainer">@color/colorTertiaryContainerLight</item>
+        <item name="colorOnTertiaryContainer">@color/colorOnTertiaryContainerLight</item>
+        <item name="colorSurfaceVariant">@color/colorSurfaceVariantLight</item>
+        <item name="colorOnSurfaceVariant">@color/colorOnSurfaceVariantLight</item>
+        <item name="colorSurfaceInverse">@color/colorSurfaceDark</item>
+        <item name="colorOnSurfaceInverse">@color/colorOnSurfaceDark</item>
+        <item name="colorOutline">@color/colorOutlineLight</item>
+        <item name="colorErrorContainer">@color/colorErrorContainerLight</item>
+        <item name="colorOnErrorContainer">@color/colorOnErrorContainerLight</item>
+        <item name="textAppearanceDisplayLarge">@style/TextAppearance.Material3.DisplayLarge</item>
+        <item name="textAppearanceDisplayMedium">@style/TextAppearance.Material3.DisplayMedium
+        </item>
+        <item name="textAppearanceDisplaySmall">@style/TextAppearance.Material3.DisplaySmall</item>
+        <item name="textAppearanceHeadlineLarge">@style/TextAppearance.Material3.HeadlineLarge
+        </item>
+        <item name="textAppearanceHeadlineMedium">@style/TextAppearance.Material3.HeadlineMedium
+        </item>
+        <item name="textAppearanceHeadlineSmall">@style/TextAppearance.Material3.HeadlineSmall
+        </item>
+        <item name="textAppearanceTitleLarge">@style/TextAppearance.Material3.TitleLarge</item>
+        <item name="textAppearanceTitleMedium">@style/TextAppearance.Material3.TitleMedium</item>
+        <item name="textAppearanceTitleSmall">@style/TextAppearance.Material3.TitleSmall</item>
+        <item name="textAppearanceBodyLarge">@style/TextAppearance.Material3.BodyLarge</item>
+        <item name="textAppearanceBodyMedium">@style/TextAppearance.Material3.BodyMedium</item>
+        <item name="textAppearanceBodySmall">@style/TextAppearance.Material3.BodySmall</item>
+        <item name="textAppearanceLabelLarge">@style/TextAppearance.Material3.LabelLarge</item>
+        <item name="textAppearanceLabelMedium">@style/TextAppearance.Material3.LabelMedium</item>
+        <item name="textAppearanceLabelSmall">@style/TextAppearance.Material3.LabelSmall</item>
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.Material3.SmallComponent
+        </item>
+        <item name="shapeAppearanceMediumComponent">
+            @style/ShapeAppearance.Material3.MediumComponent
+        </item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.Material3.LargeComponent
+        </item>
+    </style>
+    <style name="Toolbar.TitleText" parent="TextAppearance.Material3.ActionBar.Title">
+        <item name="fontFamily">@font/header</item>
+        <item name="android:textSize">@dimen/_24sdp</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Toolbar.TitleText.Collapsed" parent="TextAppearance.Material3.ActionBar.Title">
+        <item name="fontFamily">@font/header</item>
+        <item name="android:textSize">@dimen/_15sdp</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Toolbar.TitleText.Expanded" parent="TextAppearance.Material3.ActionBar.Title">
+        <item name="fontFamily">@font/header</item>
+        <item name="android:textSize">@dimen/_24sdp</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="actionButtonOverflow" parent="Widget.Material3.PopupMenu.Overflow">
+        <item name="android:src">@drawable/ic_menu</item>
+        <item name="tint">@color/textColorPrimary</item>
+    </style>
+    <style name="buttonLandingPage">
+        <item name="fontFamily">@font/regular</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:textColor">@color/textColorPrimaryInverse</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingStart">@dimen/_28sdp</item>
+        <item name="android:paddingTop">@dimen/_6sdp</item>
+        <item name="android:paddingEnd">@dimen/_28sdp</item>
+        <item name="android:paddingBottom">@dimen/_6sdp</item>
+        
+        
+    </style>
+    <style name="buttonMain">
+        <item name="fontFamily">@font/normal</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:letterSpacing">0.18</item>
+        <item name="android:textColor">@color/textColorPrimaryInverse</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingStart">@dimen/_28sdp</item>
+        <item name="android:paddingTop">@dimen/_6sdp</item>
+        <item name="android:paddingEnd">@dimen/_28sdp</item>
+        <item name="android:paddingBottom">@dimen/_9sdp</item>
+        
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+        
+    </style>
+    <style name="customRadioButtonColored">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:paddingTop">@dimen/_8sdp</item>
+        <item name="android:paddingBottom">@dimen/_10sdp</item>
+        <item name="android:paddingStart">@dimen/container_paddingSide</item>
+        <item name="android:paddingEnd">@dimen/container_paddingSide</item>
+        <item name="android:layout_marginTop">@dimen/_4sdp</item>
+        <item name="android:layout_marginBottom">@dimen/_4sdp</item>
+        
+        <item name="android:background">@drawable/radio_sb_button_bg</item>
+        <item name="android:textColor">@drawable/radio_sb_text_color</item>
+        <item name="android:textSize">@dimen/cont_desc_size</item>
+    </style>
+    <style name="customSeekBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/container_padding</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        
+        <item name="android:hapticFeedbackEnabled">true</item>
+        <item name="android:splitTrack">false</item>
+        <item name="android:theme">@style/SeekBar.Iconify</item>
+        <item name="android:paddingStart">0dp</item>
+        <item name="android:paddingEnd">0dp</item>
+    </style>
+    <style name="dividerAccent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:background">@drawable/divider_accent</item>
+        <item name="android:layout_marginTop">@dimen/_10sdp</item>
+        <item name="android:layout_marginBottom">@dimen/container_paddingSide</item>
+    </style>
+    <style name="dividerTransparent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:background">@drawable/divider_accent</item>
+    </style>
+    <style name="radioButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:layout_marginTop">@dimen/_4sdp</item>
+        <item name="android:layout_marginBottom">@dimen/_4sdp</item>
+        <item name="android:paddingStart">@dimen/_8sdp</item>
+        <item name="android:paddingEnd">@dimen/_8sdp</item>
+        <item name="android:paddingBottom">@dimen/_3sdp</item>
+        <item name="android:buttonTint">@color/color_radio_button_circle</item>
+        <item name="android:textColor">@color/textColorPrimary</item>
+        <item name="android:textSize">@dimen/_11sdp</item>
+        
+    </style>
+    <style name="spinnerDropDownItemStyle" parent="android:TextAppearance.Material.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@color/textColorPrimary</item>
+    </style>
+    <style name="spinnerItemStyle" parent="android:Widget.Material.TextView.SpinnerItem">
+        <item name="android:textColor">@color/textColorPrimary</item>
+    </style>
+    <style name="toolbarStyle" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:actionOverflowButtonStyle">@style/actionButtonOverflow</item>
+        <item name="colorControlHighlight">@color/rippleAccent</item>
+    </style>
+</resources>

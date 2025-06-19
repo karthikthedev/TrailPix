@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299374973864",
+    "project_id": "myapplication-2ceb4",
+    "storage_bucket": "myapplication-2ceb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299374973864:android:63edc557deaa400516839d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQJvkF0CXSImooW2GrWmzxzQJxxn9Ld8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299374973864:android:f9cba258986aa22216839d",
+        "android_client_info": {
+          "package_name": "com.karthiksuresh.trailpix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQJvkF0CXSImooW2GrWmzxzQJxxn9Ld8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
