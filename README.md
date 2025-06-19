@@ -19,8 +19,10 @@
 ---
 
 ## 📸 Screenshots
-![Screenshot_20250619_125836](https://github.com/user-attachments/assets/19629f38-3324-4122-849b-c3504739dcde), ![Screenshot_20250619_125514](https://github.com/user-attachments/assets/ae3fa9ba-440a-4f6b-b04a-a40855d02f3b)
-
+![Screenshot_20250619_125836](https://github.com/user-attachments/assets/74b843f3-ef82-4c04-a6a8-ae1c27dd563f)
+![Screenshot_20250619_125946](https://github.com/user-attachments/assets/6d0685cb-a97c-46c2-8877-d59ca1700900)
+![Screenshot_20250619_125533](https://github.com/user-attachments/assets/1f4e99d1-66c6-48ac-8482-0cbb5ed34851)
+![Screenshot_20250619_125552](https://github.com/user-attachments/assets/0644b933-d0bb-4bfc-8956-51f3f1f242d9)
 
 
 
